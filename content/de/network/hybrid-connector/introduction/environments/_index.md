@@ -10,11 +10,11 @@ description: >
 
 ## Übersicht
 
-Der HybridConnector dient dazu IPSec site-to-site VPN Verbindungen in die PlusCloud Open zu ermöglichen. Mit OpenStack Bordmitteln ist das noch nicht möglich.
+Der HybridConnector dient dazu IPSec site-to-site VPN Verbindungen in die pluscloud Open zu ermöglichen. Mit OpenStack Bordmitteln ist das noch nicht möglich.
 
 ## Bereitstellung
 
-Der **HybridConnector** (HC) wird in Form zweier redundanzer virtueller Maschinen (VMs) mit mit dem Betriebssystem VyOS bereitgestellt. Die Bereitstellung erfolgt in Ihrem PlusCloud Open Projekt.
+Der **HybridConnector** (HC) wird in Form zweier redundanzer virtueller Maschinen (VMs) mit mit dem Betriebssystem VyOS bereitgestellt. Die Bereitstellung erfolgt in Ihrem pluscloud Open Projekt.
 
 Diese VMs erhalten die erforderlichen CPU-, Speicher-, Festplatten- und Netzwerkressourcen. Nach der Bereitstellung werden der **HC** mit grundlegenden Einstellungen wie IP-Adressen, Hostname und administrativen Anmeldeinformationen konfiguriert.
 
